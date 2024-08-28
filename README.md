@@ -16,7 +16,7 @@ To get started with this project, follow the instructions below:
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your-username/APU-Google-Workspace-Hackathon-2024.git
+git clone https://github.com/LeanBean00/APU-Google-Workspace-Hackathon-2024.git
 Install Dependencies: Navigate to the project directory and install the required dependencies.
 bash
 Copy code
@@ -30,7 +30,5 @@ Contributing
 We welcome contributions from the community! Please feel free to submit issues, fork the repository, and send pull requests.
 
 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the Google AppScript APU License
 
-Contact
-For any inquiries, please contact the project team at your-email@example.com.
