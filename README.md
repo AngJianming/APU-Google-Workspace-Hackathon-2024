@@ -1,5 +1,5 @@
 # APU-Google-Workspace-Hackathon-2024
-Project: Streamline for Better Evaluation of Sales and Service Communication
+<h2>Project: Streamline for Better Evaluation of Sales and Service Communication</h2>
 Welcome to the APU-Google-Workspace-Hackathon-2024 project repository! This project, developed during the APU-Google-Workspace-Hackathon 2024, aims to enhance sales and service communication by leveraging the capabilities of Google Workspace. Our solution focuses on streamlining communication, facilitating better evaluation processes, and providing actionable insights for continuous improvement.
 
 Overview
